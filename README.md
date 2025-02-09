@@ -8,6 +8,6 @@ the folder "classifications" containing all python scripts for sentence extracti
 
 the folder "R scripts" contain five R scripts "Data cleaning", "Translation" , "Metadata cleaning", "Main data analysis", and "Descriptive overview",. 
 
-the folder "data" contains all the .csv files used in the various scripts "ESG.csv" being the raw data file and "esg_grouped.csv" being the file used for main data analysis.
+the folder "data" contains the data file and "esg_grouped.csv" being the file used for main data analysis. All other data files can be provided upon request.
 
 enjoy :)
